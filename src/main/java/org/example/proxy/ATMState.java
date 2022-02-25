@@ -1,7 +1,6 @@
 package org.example.proxy;
 
 public interface ATMState {
-
     // Different states expected
     // HasCard, NoCard, HasPin, NoCash
 

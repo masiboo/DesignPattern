@@ -1,9 +1,9 @@
 package org.example.state;
 
 import org.example.proxy.ATMState;
-import org.example.proxy.GetATMData;
+import org.example.proxy.ATMData;
 
-public class ATMMachine implements GetATMData {
+public class ATMMachine implements ATMData {
 
     ATMState hasCard;
     ATMState noCard;

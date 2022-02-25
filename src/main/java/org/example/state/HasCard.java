@@ -7,9 +7,7 @@ public class HasCard implements ATMState {
     ATMMachine atmMachine;
 
     public HasCard(ATMMachine newATMMachine){
-
         atmMachine = newATMMachine;
-
     }
 
     public void insertCard() {
