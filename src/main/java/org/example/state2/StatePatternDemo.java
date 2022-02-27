@@ -1,6 +1,6 @@
 package org.example.state2;
 
-public class StatePattern {
+public class StatePatternDemo {
 
     public static void main(String[] args) {
         ProfileState profileState = new ProfileState();
