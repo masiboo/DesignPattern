@@ -1,4 +1,4 @@
-package org.example.state2;
+package org.example.state;
 
 public class StatePatternDemo {
 
